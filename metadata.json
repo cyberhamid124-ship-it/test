@@ -1,0 +1,5 @@
+{
+  "name": "MatchOracle AI",
+  "description": "A premium football match predictor and statistics analyzer using Gemini AI to calculate match outcomes, analyze form, and provide detailed head-to-head insights.",
+  "requestFramePermissions": []
+}
